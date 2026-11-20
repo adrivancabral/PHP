@@ -71,7 +71,7 @@ echo "<br>";
 // 4 - Operadores lógicos - Utilizados para combinar condições
 
 // &&   	E (AND)
-// \|\|    	OU (OR)
+// ||    	OU (OR)
 // !        NÃO (NOT)
 
 $idade = 30;
